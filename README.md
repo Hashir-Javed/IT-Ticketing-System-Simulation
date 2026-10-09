@@ -10,3 +10,11 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 
 ---
 
+## Lab Simulation
+
+### IT Support Queue
+
+Created a simulated queue containing 5 common IT support tickets.
+
+
+
