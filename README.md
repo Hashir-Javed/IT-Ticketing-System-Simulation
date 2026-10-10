@@ -12,9 +12,102 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 
 ## Lab Simulation
 
-### IT Support Queue
+### IT Support Queue:
 
-Created a simulated queue containing 5 common IT support tickets.
+**Created a simulated queue containing 5 common IT support tickets.**
+
+![queue](Images/queue.png)
+
+---
+
+### Account lockout ticket
+
+![](Images/.png)
+ *Ticket submitted by user*
+
+
+![](Images/.png)
+ *Troubleshooting steps and user communication documented*
+
+
+![](Images/.png)
+ *Ticket closed*
+
+---
+
+### Network connectivity ticket
+
+![](Images/.png)
+ *Ticket submitted by user*
+
+
+![](Images/.png)
+ *Troubleshooting steps and user communication documented*
+
+
+![](Images/.png)
+ *Ticket closed*
+
+---
+
+### Slow workstation ticket
+
+![](Images/.png)
+ *Ticket submitted by user*
+
+
+![](Images/.png)
+ *Troubleshooting steps and user communication documented*
+
+
+![](Images/.png)
+ *Ticket closed*
+
+---
+
+### Printer issue ticket
+
+![](Images/.png)
+ *Ticket submitted by user*
+
+
+![](Images/.png)
+ *Troubleshooting steps and user communication documented*
+
+
+![](Images/.png)
+ *Ticket closed*
+
+
+---
+
+### Shared foler access ticket
+
+![](Images/.png)
+ *Ticket submitted by user*
+
+
+![](Images/.png)
+ *Troubleshooting steps and user communication documented*
+
+
+![](Images/.png)
+ *Ticket escalated*
+
+---
+
+## Skills Learned
+
+- Jira ticket creation and management
+
+- Ticket prioritization and queue management
+
+- Tier 1 IT troubleshooting
+
+- Customer communication and internal notes
+
+- Ticket resolution and escalation
+
 
 
 
