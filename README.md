@@ -37,37 +37,37 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 
 ### Network connectivity ticket
 
-![](Images/.png)
+![](Images/network-issue-ticket.png)
  *Ticket submitted by user*
 
 
-![](Images/.png)
+![](Images/network-issue-troubleshoot.png)
  *Troubleshooting steps and user communication documented*
 
 
-![](Images/.png)
+![](Images/network-issue-closed.png)
  *Ticket closed*
 
 ---
 
 ### Slow workstation ticket
 
-![](Images/.png)
+![](Images/slow-workstation-ticket.png)
  *Ticket submitted by user*
 
 
-![](Images/.png)
+![](Images/slow-workstation-troubleshoot.png)
  *Troubleshooting steps and user communication documented*
 
 
-![](Images/.png)
+![](Images/slow-workstation-closed.png)
  *Ticket closed*
 
 ---
 
 ### Printer issue ticket
 
-![](Images/.png)
+![](Images/printer-issue-ticket.png)
  *Ticket submitted by user*
 
 
