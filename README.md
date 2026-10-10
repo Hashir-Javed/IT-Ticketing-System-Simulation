@@ -25,10 +25,12 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 ![](Images/account-lockout-ticket.png)
  *Ticket submitted by user*
 
+#
 
 ![](Images/account-lockout-troubleshoot.png)
  *Troubleshooting steps and user communication documented*
 
+#
 
 ![](Images/account-lockout-closed.png)
  *Ticket closed*
@@ -40,10 +42,12 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 ![](Images/network-issue-ticket.png)
  *Ticket submitted by user*
 
+#
 
 ![](Images/network-issue-troubleshoot.png)
  *Troubleshooting steps and user communication documented*
 
+#
 
 ![](Images/network-issue-closed.png)
  *Ticket closed*
@@ -55,10 +59,12 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 ![](Images/slow-workstation-ticket.png)
  *Ticket submitted by user*
 
+#
 
 ![](Images/slow-workstation-troubleshoot.png)
  *Troubleshooting steps and user communication documented*
 
+#
 
 ![](Images/slow-workstation-closed.png)
  *Ticket closed*
@@ -70,12 +76,14 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 ![](Images/printer-issue-ticket.png)
  *Ticket submitted by user*
 
+#
 
-![](Images/.png)
+![](Images/printer-issue-troubleshoot.png)
  *Troubleshooting steps and user communication documented*
 
+#
 
-![](Images/.png)
+![](Images/printer-issue-closed.png)
  *Ticket closed*
 
 
@@ -83,15 +91,17 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 
 ### Shared foler access ticket
 
-![](Images/.png)
+![](Images/shared-folder-ticket.png)
  *Ticket submitted by user*
 
+#
 
-![](Images/.png)
+![](Images/shared-folder-troubleshoot.png)
  *Troubleshooting steps and user communication documented*
 
+#
 
-![](Images/.png)
+![](Images/shared-folder-escalate.png)
  *Ticket escalated*
 
 ---
