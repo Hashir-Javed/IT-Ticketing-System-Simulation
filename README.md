@@ -22,15 +22,15 @@ This Jira IT Ticketing System Lab was developed to gain practical experience han
 
 ### Account lockout ticket
 
-![](Images/.png)
+![](Images/account-lockout-ticket.png)
  *Ticket submitted by user*
 
 
-![](Images/.png)
+![](Images/account-lockout-troubleshoot.png)
  *Troubleshooting steps and user communication documented*
 
 
-![](Images/.png)
+![](Images/account-lockout-closed.png)
  *Ticket closed*
 
 ---
